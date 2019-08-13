@@ -1,0 +1,3 @@
+# git忽略文件配置配置
+/dist
+/node_modules
