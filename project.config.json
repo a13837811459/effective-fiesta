@@ -1,8 +1,8 @@
 {
   "miniprogramRoot": "./dist",
   "projectname": "loveLog",
-  "description": "",
-  "appid": "touristappid",
+  "description": "一个小仙女与狗子的故事",
+  "appid": "wx22dd908f9812b112",
   "setting": {
     "urlCheck": true,
     "es6": false,
